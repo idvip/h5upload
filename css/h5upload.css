@@ -1,0 +1,21 @@
+﻿/*此CSS仅供编辑时使用，使用控件时无需引用*/
+.h5upload_item{
+    float:left;
+    width:60px;
+    height:60px;
+    margin:5px;
+}
+.h5upload_clear{
+    clear:both;
+}
+.h5upload_img{
+ background-size:cover;
+ position:relative;
+}
+.h5upload_delimg{
+   position:absolute;
+   top:-5px;
+   right:-5px;
+   width:18px;
+   height:18px;
+}
